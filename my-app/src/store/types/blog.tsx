@@ -1,0 +1,6 @@
+export const GET_BLOGS = "GET_BLOGS "
+export const GET_SPECIFICBLOG = "GET_SPECIFICBLOG"
+export const MAKE_NEWPOST = "MAKE_NEWPOST " 
+export const UPDATE_POST = "UPDATE_POST" 
+export const DELETE_POST = "DELETE_POST" 
+export const MAKENEW_COMMENT = "MAKENEW_COMMENT" 
